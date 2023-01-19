@@ -27,7 +27,7 @@
     padding: 5px;
     align-content: center;
   }
-  .style-indiv {
+  .style-in-div {
   font-size: .50cm;
   font-weight: 100;
   background-color: transparent; 
@@ -160,7 +160,7 @@
     box-shadow: 0 2px rgb(214, 71, 71); 
     transform: translateY(1px);
   }
-  .style-indiv {
+  .style-in-div {
    display: flex;
    justify-content: center;
   
