@@ -27,6 +27,7 @@
     padding: 5px;
     align-content: center;
   }
+  
   .style-in-div {
   font-size: .50cm;
   font-weight: 100;
@@ -124,6 +125,12 @@
     justify-items: center; 
   }
   /* BUTTON STYLE BODY */
+  button {
+    cursor: pointer;
+      }
+  button:hover{
+    background-color: violet;
+  }    
   .btn-style-main {
     background-color: var(--primary-color);
     color: var(--tertiary-color);
